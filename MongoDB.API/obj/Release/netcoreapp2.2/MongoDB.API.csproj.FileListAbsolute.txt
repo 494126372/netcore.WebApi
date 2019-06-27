@@ -1,0 +1,14 @@
+D:\工作\C#\API\WebAPI\MongoDB.API\bin\Release\netcoreapp2.2\MongoDB.API.deps.json
+D:\工作\C#\API\WebAPI\MongoDB.API\bin\Release\netcoreapp2.2\MongoDB.API.runtimeconfig.json
+D:\工作\C#\API\WebAPI\MongoDB.API\bin\Release\netcoreapp2.2\MongoDB.API.runtimeconfig.dev.json
+D:\工作\C#\API\WebAPI\MongoDB.API\bin\Release\netcoreapp2.2\MongoDB.API.dll
+D:\工作\C#\API\WebAPI\MongoDB.API\bin\Release\netcoreapp2.2\MongoDB.API.pdb
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.csprojAssemblyReference.cache
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.csproj.CoreCompileInputs.cache
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.RazorAssemblyInfo.cache
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.RazorAssemblyInfo.cs
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.AssemblyInfoInputs.cache
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.AssemblyInfo.cs
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.RazorTargetAssemblyInfo.cache
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.dll
+D:\工作\C#\API\WebAPI\MongoDB.API\obj\Release\netcoreapp2.2\MongoDB.API.pdb
